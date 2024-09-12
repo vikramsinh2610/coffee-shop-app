@@ -20,8 +20,8 @@ A mobile app built with React Native CLI that takes your coffee shop experience 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/mxnuchim/Coffee-Shop-App-React-Native.git`
-2. Navigate to the project directory: `cd BrewNest`
+1. Clone the repository: `git clone https://github.com/vikramsinh2610/coffee-shop-app`
+2. Navigate to the project directory: `cd coffee-shop-app`
 3. Install dependencies: `npm install`
 4. For iOS, navigate to the `ios` directory and run `pod install` to install dependencies for iOS.
 
